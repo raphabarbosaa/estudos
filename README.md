@@ -20,4 +20,3 @@ Aqui organizo todos os exercícios, códigos e anotações dos cursos Alura, foc
 Cada pasta representa um módulo/c curso específico.
 
 ## 📂 Estrutura de Pastas
-
