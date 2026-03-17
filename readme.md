@@ -1,15 +1,23 @@
-## 👤 Sobre Mim
-
 <div align="center">
 
-**Raphael Barbosa**  
-💻 **Python | JS | PowerShell | Git** 
-🛠️ **Automação | N8N | Python | Cloud** 
-🔄 **Infra Senior → DevOps**  
+# 📚 Estudos Alura - Python e DevOps
 
-**← COLE AQUI AS IMAGENS/STATS (elas são URLs, não arquivos):**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=raphabarbosaa&theme=radical)](https://github.com/raphabarbosaa)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphabarbosaa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+**Repositório dedicado aos estudos e práticas da Alura - minha jornada de Infra Senior → DevOps! 🚀**
 
 </div>
+
+## 📋 Sobre este Projeto
+
+Aqui organizo todos os exercícios, códigos e anotações dos cursos Alura, focando em:
+- **Python** (Listas, Tuplas, Dicionários, Conjuntos e mais)
+- **Automação** (scripts PowerShell, Python, JS)
+- **DevOps** (Git, GitHub, CI/CD basics)
+- **N8N** (workflows de automação)
+
+Cada pasta representa um módulo/c curso específico.
+
+## 📂 Estrutura de Pastas
+
