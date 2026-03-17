@@ -1,0 +1,12 @@
+https://docs.python.org/pt-br/3/
+
+https://www.alura.com.br/artigos/python-poo-engenharia-dados
+
+https://www.w3schools.com/python/
+
+https://docs.python.org/3/tutorial/classes.html
+
+
+https://www.alura.com.br/artigos/trabalhando-com-o-dicionario-no-python
+
+https://www.alura.com.br/artigos/qual-a-diferenca-entre-e-is-no-python
