@@ -10,3 +10,5 @@ https://docs.python.org/3/tutorial/classes.html
 https://www.alura.com.br/artigos/trabalhando-com-o-dicionario-no-python
 
 https://www.alura.com.br/artigos/qual-a-diferenca-entre-e-is-no-python
+
+ok
